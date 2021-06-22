@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jamuna27
-- 👀 I’m interested in creating software and Data analysis projects with HTML,CSS, Python & Excel
+- 👀 I’m interested in creating Software and Data analysis projects with HTML,CSS, Python & Excel
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on entry level data analytics projects
 - 📫 How to reach me :nadarajah27@hotmail.co.uk
